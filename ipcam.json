@@ -2,17 +2,17 @@
     {
         "location": "IP Camera 1",
         "title": "IP Camera Feed 1",
-        "url_1080p": "rtsp://192.168.1.3/stream1",
-        "url_1080p_hdr": "rtsp://192.168.1.3/stream1",
-        "url_4k": "rtsp://192.168.1.3/stream1",
-        "url_4k_hdr": "rtsp://192.168.1.3/stream1"
+        "url_1080p": "rtsp://slayer:mylala@192.168.1.3/stream1",
+        "url_1080p_hdr": "rtsp://slayer:mylala@192.168.1.3/stream1",
+        "url_4k": "rtsp://slayer:mylala@192.168.1.3/stream1",
+        "url_4k_hdr": "rtsp://slayer:mylala@192.168.1.3/stream1"
     },
     {
         "location": "IP Camera 2",
         "title": "IP Camera Feed 2",
-        "url_1080p": "rtsp://192.168.1.2/stream1",
-        "url_1080p_hdr": "rtsp://192.168.1.2/stream1",
-        "url_4k": "rtsp://192.168.1.2/stream1",
-        "url_4k_hdr": "rtsp://192.168.1.2/stream1"
+        "url_1080p": "rtsp://slayer:mylala@192.168.1.2/stream1",
+        "url_1080p_hdr": "rtsp://slayer:mylala@192.168.1.2/stream1",
+        "url_4k": "rtsp://slayer:mylala@192.168.1.2/stream1",
+        "url_4k_hdr": "rtsp://slayer:mylala@192.168.1.2/stream1"
     }
 ]
